@@ -59,3 +59,19 @@ Country
 Employment Type
 
 Experience Level
+
+📂 Project Files
+
+Salary_dashboard.xlsx – Interactive Excel dashboard
+
+Screenshot.png – Dashboard preview image
+👤 About Me
+
+Hi! I’m Veeramani R, a Data Analyst enthusiast with skills in Excel, SQL, Power BI, and Python.
+I enjoy converting raw data into meaningful insights using dashboards and visual storytelling.
+
+README.md – Project documentation
+🔗 LinkedIn:https://www.linkedin.com/in/veera-r-158b842a3/
+
+🏷️ Tags
+#ExcelDashboard #DataAnalytics #DataVisualization #BusinessIntelligence #DataScience
